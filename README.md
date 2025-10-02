@@ -18,11 +18,15 @@ Bài Tập Tuần 1
 
    Dùng Android Studio tạo một UI dựa theo như hình mẫu:
    
-     <img width="313" height="611" alt="image" src="https://github.com/user-attachments/assets/4934dd7a-3f7e-4178-ae6d-761310708066" />
+    Lập trình một ứng dụng di động có giao diện (UI) như hình mẫu:
 
-   Kết quả đạt được:
+      Thanh điều hướng (Navigation Bar) với nút Quay lại (←) và nút Tùy chọn/Chỉnh sửa (biểu tượng Ghi).
 
-     <img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/a4884310-b302-47f1-b1f2-f14fe171f2c4" />
+      Hiển thị một Ảnh đại diện hình tròn (Avatar).
+
+      Tên: Johan Smith (in đậm). (đổi thành tên bản thân)
+
+      Địa điểm: California, USA. (địa chỉ của bản thân)
 
    
 
