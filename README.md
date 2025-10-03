@@ -31,7 +31,7 @@ Dùng **Android Studio** tạo một UI dựa theo hình mẫu:
 - **Địa điểm:** California, USA – **đổi thành địa chỉ bản thân**.  
 
 **Mô tả UI:**  
-1. **ằm ở phía trên cùng** có nút quay lại bên trái và nút profile/tùy chỉnh bên phải.  
+1. **Nằm ở phía trên cùng** có nút quay lại bên trái và nút profile/tùy chỉnh bên phải.  
 2. **Avatar** nằm chính giữa, hình tròn
 3. **Tên và địa điểm** hiển thị bên dưới avatar, tên in đậm để nổi bật, địa điểm in thường.  
 
