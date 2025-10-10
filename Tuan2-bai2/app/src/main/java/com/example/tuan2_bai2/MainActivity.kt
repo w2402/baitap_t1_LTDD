@@ -12,13 +12,12 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.tuan2_bai2.ui.theme.Tuan2bai2Theme   // ✅ Dùng đúng tên theme trong Theme.kt
+import com.example.tuan2_bai2.ui.theme.Tuan2bai2Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            // ✅ Dùng đúng theme
             Tuan2bai2Theme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),

@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose Material 3 không có NoActionBar -->
+    <style name="Theme.Tuan2bai3" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Ẩn thanh action bar cũ -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
